@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on hackthon projects.<br>I'm currently learning C++, Python, Full Stack.<br>
+I'm currently working on hackthon projects.<br>I'm currently learning C++, Python full Stack.<br>
 
 
 ## 🌐 Socials:
