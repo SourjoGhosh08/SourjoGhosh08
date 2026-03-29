@@ -3,7 +3,7 @@ I'm currently working on hackthon projects.<br>I'm currently learning C++, Pytho
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]    https://www.linkedin.com/in/sourjo-ghosh-9530a135b/ [![email]                                (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]  mailto:sourjoghosh90@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]    https://www.linkedin.com/in/sourjo-ghosh-9530a135b/            [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]    mailto:sourjoghosh90@gmail.com 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
